@@ -1,0 +1,309 @@
+@media  (max-width: 1178px){
+    nav ul li a {
+        font-size: 15px;
+    }
+    .telephon h6 {
+        font-size: 15px;
+    }
+}
+    
+
+@media (max-width:992px) {
+nav {
+    border-bottom: none;
+}
+.text-area {
+    margin-top: 5rem;
+}
+button.FREEBIES {
+    width: 100px;
+    height: 26px;
+    font-size: 12px;
+    font-weight: 500;
+}
+button.FREEBIES img {
+    width: 7px;
+}
+button.btn-II {
+    width: 126px;
+    height: 25px;
+    font-weight: 500;
+    font-size: 12px;
+}
+.logo img {
+    width: 172px;
+}
+.train_inspired_text h1 {
+    font-size: 47px !important;
+    margin-top: -1rem;
+}
+.train_inspired {
+    text-align: center;
+
+    margin-top: 4rem;
+
+}
+.banner-adjust h1 {
+    font-size: 30px;
+}
+.section-img-ii {
+    margin-top: 4rem;
+}
+.heading-after h1 {
+    font-size: 31px;
+}
+.button-i button {
+    width: 121px;
+    height: 41px;
+    font-size: 13px;
+}
+.button-i:after {
+    width: 48px;
+    height: 41px;
+    left: 129px;
+}
+.section-imges:before {
+    left: 0;
+    display: none;
+}
+.section-imges img {
+    width: 100%;
+    height: auto;
+}
+.img_line img {
+    height: 27px;
+}
+.banner-all-icons img {
+    width: 186px;
+}
+.section-img-ii:before {
+    bottom: 94px;
+    /* background-size: 126px; */
+}
+.text-area h1 {
+    font-size: 31px;
+}
+}
+@media (max-width:420px) {
+.section-imges:before {
+   display: none;
+}
+}
+@media (max-width:540px) {
+    .section-imges:before {
+       display: none;
+    }
+    .for-btn {
+        display: block;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+    }
+    .img_line {
+        display: none;
+    }
+    /* for top icons adjuset */
+    .the_top_icones {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        text-align: center;
+        float: right;
+        position: relative;
+        margin-top: -76px;
+    }
+    .btn_FREEBIES img{
+display: none;
+    }
+    .btn_FREEBIES {
+        padding-right: 0px;
+    }
+    .btn-II img {
+        display: none;
+    }
+       /* for top icons adjuset */
+          /* for top 1st banner text adjest */
+    .train_inspired_text h1 {
+        font-size: 30px !important;
+    }
+    .train_inspired_text button {
+        width: 6rem;
+        height: 2rem;
+        font-size: 10px;
+    }
+    .train_inspired_text p {
+        font-size: 11px !important;
+    }
+    .train_inspired {
+        text-align: center;
+        margin-top: 2rem;
+    }
+        .heading-after h1 {
+            font-size: 24px;
+        }
+        .text-area h1 {
+            font-size: 24px !important;
+    }
+    .button-ii {
+      margin-right:0px; 
+    }
+    .banner-adjust h1 {
+        font-size: 24px;
+    }
+    .banner-adjust p {
+        font-size: 14px;
+    }
+}
+/* this is for 768 screen */
+/* this is for 768 */
+    
+    @media (max-width: 768px) {
+        .train_inspired_text {
+            padding-bottom: 6rem;
+        }
+        .the_top_icones img {
+            width: 28px;
+        }
+        ul.navbar-nav li {
+            margin-top: 8px;
+        }
+        /* for logo  */
+        .logo img {
+            width: 117px;
+        }
+        /* for logo  */
+        .section-text {
+            margin-bottom: 23px;
+        }
+        .text-area {
+            text-align: center;
+            justify-content: center;
+        }
+        .button-ii:after {
+            right: unset;
+            width: 41px;
+            height: 42px;
+            font-size: 9px;
+        }
+        .button-ii button {
+        
+           
+            width: 88px;
+            height: 42px;
+            font-size: 9px;
+            margin-right: 5px;
+        }
+        .section-img-i {
+            background-position: center;
+            text-align: center;
+            background-size: 188px;
+        }
+        .button-i:after {
+            left: unset;
+            width: 41px;
+            height: 42px;
+            font-size: 9px;
+        }
+        .button-i button {
+            width: 88px;
+            height: 42px;
+            font-size: 9px;
+            margin-right: 5px;
+        }
+        .text-area h1:after {
+            background-size: 132px;
+            bottom: 0;
+        }
+        .section-text {
+            background-position: left;
+            background-size: 167px;
+    }
+    .text-area {
+        text-align:center;
+       margin-top: 0rem;
+    }
+    .section-img-ii:before {
+        bottom: -40px;
+        background-size: 126px;
+    }
+    .text-area h1 {
+        font-size: 31px;
+    }
+    .button-ii {
+        margin-right:0px; 
+      }
+}
+/* this is for 768 screen */
+/* this is for 768 */
+
+
+
+
+    @media only screen and (max-width: 800px) and (max-width: 768px)  {
+        .section-imges:before {
+            display: block;
+         }
+
+         button.FREEBIES {
+            width: 74px;
+            height: 20px;
+            font-size: 9px;
+        
+        }
+        button.btn-II {
+            width: 115px;
+            height: 20px;
+            font-size: 9px;
+        }
+        button.btn-II img {
+            width: 6px;
+        }
+        .img_line {
+            padding: 0px 14px;
+        }
+        .img_line img {
+            height: 24px;
+        }
+
+    }
+    @media (max-width:378px) {
+        .banner-adjust h1 {
+            font-size: 18px !important;
+        }
+        .banner-adjust p {
+            font-size: 12px !important;
+        }
+        .banner-fix-icons {
+            display: block !important;
+    }
+    .banner-all-icons img {
+        width: 47px !important;
+    }
+    .banner-fix-icons img {
+         padding:0px;
+    }
+    .banner-fix-icons h6 {
+        top: 15px;
+        position: relative;
+        padding: 0px;
+    }
+    .banner-fix-icons img {
+        top: 30px;
+        position: relative;
+        padding-bottom: 44px;
+    }
+    .section-imges:before {
+        display: none !important;
+    }
+    .banner-image {
+        padding: 10px 1rem;
+    }
+    .section-img img {
+        width: 100%;
+        box-shadow: -16px 21px 0px 0px #f1f0f0;
+    }
+}
+@media (max-width:642px) { 
+    .section-imges:before {
+        display: none;
+}

@@ -1,0 +1,407 @@
+@import url(https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.3/css/fontawesome.min.css);
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+* {
+    padding: 0px;
+    box-sizing: border-box;
+    margin: 0px;
+  
+}
+body{
+    font-family: 'Poppins', sans-serif !important;
+}
+.banner-images {
+    background-image: url("test/banner.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    height:auto;
+}
+.banner-image {
+    padding: 10px 4rem;
+    /* margin: 22px 0px; */
+}
+.train_inspired_text {
+    padding-bottom: 11rem;
+}
+/* .banner-adjust {
+    padding: 0px 4rem;
+    margin: 22px 0px;
+} */
+.logo {
+    width: auto;
+    height: auto;
+}
+
+/* ...For top betton  */
+.FREEBIES  {
+    width: 134px;
+    height: 38px;
+    border: none;
+    outline: none;
+    font-weight: 500;
+}
+.btn-II {
+    width: 179px;
+    height: 38px;
+    border: none;
+    outline: none;
+    font-weight: 500;
+}
+.for-btn {
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.for-btn button:hover {
+    background-color: rgb(66, 170, 255);
+}
+
+.btn_FREEBIES {
+    padding-right: 15px;
+}
+
+/* this is for login line image */
+/* this is for login line image */
+/* this is for login line image */
+
+/* .btn_LOGIN:after {
+    content:"";
+    display:block;
+background-image:url("/test/Line 1.png") ;
+} */
+/* for top nav bar icon */
+.nav_icon_i img {
+    background-color: rgb(3, 174, 204);
+    padding: 10px;
+    border-radius: 22px;
+    cursor: pointer;
+}
+
+.nav_icon_i{
+    padding-right: 10px;
+  
+}
+
+.nav_icon_ii img {
+    background-color: rgb(3, 174, 204);
+    padding: 8px;
+    border-radius: 22px;
+    cursor: pointer;
+}
+.the_top_icones {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+   
+}
+/* for top nav bar icon */
+/* top bar img for line */
+.img_line {
+    padding: 0px 34px;
+}
+/* top bar img for line */
+.manu-adjust {
+    padding: 0px 3rem;
+    /* margin: 22px 0px; */
+}
+
+/* Code  for nav bar */
+
+
+
+.telephon {
+    display: inline-flex;
+    text-align: center;
+    justify-content: center;
+    float: right;
+    position: relative;
+    top: 18px;
+}
+.telephon h6 {
+    color: white;
+    padding: 0x 9px;
+    font-size: 20px;
+}
+
+.telephon img {
+    /* color: white; */
+    padding: 0px 13px;
+    padding: 0x 9px;
+}
+nav ul li a {
+    color: rgb(255, 255, 255) !important;
+    font-weight: 500;
+    font-size: 20px;
+    transition: all .4s ease;
+}
+nav ul li a:hover {
+    color: rgb(190, 209, 186) !important;
+}
+nav {
+    border-bottom: 1px solid white;
+}
+div#navbarNav {
+    text-align: center;
+}
+.navbar-toggler-icons i {
+    border: none;
+    color: #fffefc;
+    outline: none;
+    outline-color: initial;
+    outline-style: none;
+    outline-width: initial;
+}
+button.navbar-toggler {
+    outline: none;
+}
+/* Code  for nav bar end*/
+/* for 1st banner text */
+.train_inspired {
+         position: relative;
+         margin-top: 13rem;
+}
+.train_inspired_text h1 {
+    font-size: 60px !important;
+    font-weight: bold;
+    margin-top: -1rem;
+    color: white;
+}
+.train_inspired_text p {
+font-size: 23px !important;
+    color: white;
+}
+.train_inspired_text {
+    text-align: center;
+    /* position: relative;
+    top: 13rem; */
+}
+.train_inspired_text button {
+    width: 11rem;
+    height: 3rem;
+    border: none;
+    background-color: rgb(63, 196, 248);
+    cursor: pointer;
+    outline: none;
+}
+.train_inspired_text button a{
+    color: white;
+    font-weight: 500;
+    text-decoration: none;
+}
+/* 2nd banner :start */
+.banner-fix-icons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.banner-fix-icons img {
+    padding: 6px 62px;
+}
+.banner-background { 
+    padding: 30px;
+    background-color: #f1f1f1;
+}
+.div-real-icon {
+    background-image: url("test/Ellipse 12.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.div-lifestyle-icon {
+    background-image: url("test/Ellipse 12.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.d.h6 {
+    background-image: url("test/Ellipse 12.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.div-workout {
+    background-image: url("test/Ellipse 12.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+/* 2nd banner :end */
+/* 3rd section start */
+.banner-adjust h1 {
+    font-size: 60px;
+    font-weight: 600;
+}
+.section-img img {
+      width: 100%;
+      box-shadow: -36px 42px 0px 0px #f1f0f0;
+}
+.background-image {
+    padding: 0px 4rem;
+  
+}
+.section-img-i {
+    background-image: url(test/Group\ 34.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    /* float: right; */
+    background-position: right;
+    position: relative;
+}
+.heading-after h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+/* .section-img-i::before {
+    content:"";
+    position: absolute;
+    background-image: url('test/Group\ 34.png');
+    background-repeat: no-repeat;
+    background-size: auto;
+} */
+.section-img-ii img {
+    width: 9rem;
+    margin-top: 7rem;
+}
+.section-img-ii {
+    position: relative;
+}
+.section-img-ii:before {
+    position: absolute;
+    content: "";
+    left: 0;
+    width: 100%;
+    height: 192px;
+    background-image: url(test/01.png);
+    background-repeat: no-repeat;
+    bottom: 124px;
+}
+.section-img-ii {
+    margin-top: 9rem;
+}
+.button-i button{
+    width: 145px;
+    height: 52px;
+    border: none;
+    outline: none;
+    text-decoration: none;
+    background-color: #007bff5c;
+    position: relative;
+}
+.button-i {
+    position: relative;
+}
+.button-i button a {
+    text-decoration: none;
+    font-weight: 500;
+    color: black;
+}
+.button-i:after {
+    content: "";
+    position: absolute;
+    background-image: url(test/right-arrow\ \(1\).png);
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 60px;
+    background-color: #a3cfff;
+    height: 52px;
+    left: 154px;
+}
+.button-i:hover {
+    cursor: pointer;
+}
+.button-ii a {
+    text-decoration: none;
+    color: black;
+}
+/* 3rd section end*/
+/* section 4th starts */
+.background-images-ii {
+    margin-top: 3rem;
+    padding: 0px 4rem;
+}
+.section-text {
+    background-image: url(test/Group\ 34.png);
+    background-repeat: no-repeat;
+    background-size: 221px;
+    /* float: right; */
+    background-position: inherit;
+    position: relative;
+}
+.text-area {
+    text-align: end;
+    margin-top: 9rem;
+    justify-content: end;
+    position: relative;
+}
+.text-area h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+.text-area h1:after {
+    position: absolute;
+    content: "";
+    left: 00px;
+    width: 100%;
+    height: 192px;
+    background-image: url(test/02.png);
+    background-repeat: no-repeat;
+    bottom: 95px;
+    background-position: right;
+}
+.button-ii button{
+    width: 145px;
+    height: 52px;
+    border: none;
+    outline: none;
+    text-decoration: none;
+    background-color: #007bff5c;
+    position: relative;
+}
+.button-ii:after {
+    content: "";
+    position: absolute;
+    background-image: url(test/right-arrow\ \(1\).png);
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 60px;
+    background-color: #a3cfff;
+    height: 52px;
+    right: -3px;
+    z-index: 13;
+    /* left: 154px; */
+}
+.button-ii {
+    margin-right: 62px;
+}
+.button-ii:hover {
+    cursor: pointer;
+}
+.button-ii a {
+    text-decoration: none;
+    color: black;
+}
+.section-img-iii {
+    position: relative;
+}
+.section-imges:before {
+    content: "";
+    position: absolute;
+    background-image: url(test/h3.png);
+    /* background-position: bottom; */
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 400px;
+    left: -40px;
+    bottom: -40px;
+}
+.section-imges img {
+    width: 100%;
+    height: 450px;
+    object-fit: cover;
+    object-position: center;
+}
+.section-imges {
+    width: 100%;
+}
+.navbar {
+    display: block;
+}
+/* section 4th starts */
